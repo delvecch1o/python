@@ -14,4 +14,5 @@ while cont <= n:
     cont += 1
 print(' FIM')
 
+
 # 0 -> 1 -> 1 -> 2 -> 3 -> 5 -> 8 é sempre somado os dois primeiros termos para obter o proximo termo
